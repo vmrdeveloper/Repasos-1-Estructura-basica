@@ -1,0 +1,10 @@
+C:\Users\vladi\source\repos\InscripcionItla\bin\Debug\InscripcionItla.exe.config
+C:\Users\vladi\source\repos\InscripcionItla\bin\Debug\InscripcionItla.exe
+C:\Users\vladi\source\repos\InscripcionItla\bin\Debug\InscripcionItla.pdb
+C:\Users\vladi\source\repos\InscripcionItla\obj\Debug\InscripcionItla.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\InscripcionItla\obj\Debug\InscripcionItla.Form1.resources
+C:\Users\vladi\source\repos\InscripcionItla\obj\Debug\InscripcionItla.Properties.Resources.resources
+C:\Users\vladi\source\repos\InscripcionItla\obj\Debug\InscripcionItla.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\InscripcionItla\obj\Debug\InscripcionItla.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\InscripcionItla\obj\Debug\InscripcionItla.exe
+C:\Users\vladi\source\repos\InscripcionItla\obj\Debug\InscripcionItla.pdb
